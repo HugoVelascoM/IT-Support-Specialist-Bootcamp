@@ -1,0 +1,5 @@
+print("Cuál es tu nombre?")
+nombre = input()
+print("Cúal es tu puesto en la empresa?")
+puesto = input()
+print("Hola " + nombre + ", bienvenido al equipo de " + puesto + ".")
