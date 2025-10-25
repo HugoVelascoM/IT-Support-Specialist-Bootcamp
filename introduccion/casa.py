@@ -5,10 +5,10 @@ def dibujar_techo():
 def dibujar_paredes():
     print(" |    | ")
     print(" | [] | ")
-def dijuar_base():
+def dibujar_base():
     print(" |____| ")
 def dibujar_casa():
     dibujar_techo()
     dibujar_paredes()
-    dijuar_base()
+    dibujar_base()
 dibujar_casa()
